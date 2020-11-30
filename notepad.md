@@ -11,4 +11,10 @@ And instead spend more time on either studio work making stuff better, or cover 
 - type on screens
 
 ALSO I think we can cut the coding here, that's fun for me but I think was more or less a drag for many students, and few ended up with a site that wasn't embarrassing. But I love the idea that students should share their work in public one way or another. Maybe a webflow or equivalent? IDK.
- 
+
+OH, and maybe this could adapt a lot from
+
+### Core Interaction from Parsons
+Cybele Grandjean & Talia Cotton
+https://coreinteractionf19.tk/
+?
