@@ -25,12 +25,26 @@ https://coreinteractionf19.tk/
 
 (his 50-tips are just great to throw at people) https://twitter.com/erikdkennedy/status/1328771593934290944
 
+## 20201229
+
 Ugh, so good: 'Why color theory is useless' https://learnui.design/blog/color-in-ui-design-a-practical-framework.html
 
 7 rules for designing UI:
 https://learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-1.html#rule-1-light-comes-from-the-sky
 
 https://learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-2.html
+
+And look at these nice icons: https://feathericons.com
+
+- maybe instead of having them work from their own bad wireframes, I could give them a clean 'decent' wireframe that they could then apply a color story to.  To test out that stuff!
+
+- Like, for each stage of the 'Fearless Inventory' project, make my own version and they have to start from there for each phase.
+
+: user story set
+: hand sketch
+: wireframe
+: mockup set
+: prototype 
 
 His UI course outline:
 
