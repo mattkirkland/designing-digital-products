@@ -1,0 +1,32 @@
+560 002
+- Attendance
+- TEACH AN OLD PERSON
+- review to-do list from Wednesday
+- discuss Reading: Wilson Miner talk.
+	- new? - agree? - disagree?
+	- reading responses due on Mondays.
+- next reading posted: frank chimero.
+
+- Everybody get their domain & hosting?
+
+- CONCEPTUAL MODEL - presentation
+			DOMAIN NAME
+			<DNS>
+			YOUR HOST
+			<FTP>
+			YOUR COMPUTER
+
+- LETS CONNECT TO YOUR WEB HOST
+		- Grab a file from your computer - image, etc.
+		- Put it on your server
+		- See it from the web!
+
+HTML
+basics - help.html
+- head
+- body
+- block level elements h1, h2, p, p, ul, li, br, img
+- styles in head
+- links
+- lets post some real content
+	- your writeup from the reading this week, based on the Wilson Miner talk

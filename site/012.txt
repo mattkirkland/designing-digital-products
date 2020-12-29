@@ -1,0 +1,48 @@
+012 hot seat day 2
+
+- attendance
+- Teach an Old Person
+- discuss reading: Crash Course
+- next reading: 10 Things etc.
+- spring break!
+- niche check-in
+
+- Hot Seat!
+	- review brand boards
+			- key colors
+			- pattern (if available? or feasible?)
+			- title
+			- subtitle
+			- sub-sub-subtitle
+			- paragraph
+			- small 'helper' text
+			- image
+			- image with branding on top somehow
+			- big button
+			- small button
+			- secondary button
+			- tertiary button
+			- list item
+			- form input field
+
+	- did yours include these things? WHY NOT?
+		- media kits
+
+- for Weds: concept sketches - demonstrate how the user actually books their desk. pencil & paper. scan + add to your site. include layouts for mobile and desktop sizes. Think about how they can be the same or share content!
+
+
+USER STORIES:
+
+	OUR APPROVED USER STORIES ARE
+	1. As a staffperson, I want to log into the system so that I can do anything
+	2. As a staffperson, I want to log OUT of the system so that my user access is protected
+	3. As a staffperson, I want to see info (like name, title, etc) about my colleagues to I can decide where to sit
+	4. As a staffperson, I want to be able to find out where a specific person is booked right now and in the future (for anywhere in the entire company)
+	5. As a staffperson, I want to see which desks are available for reservation right now and in the future, for all locations in the company
+	6. As a staffperson, I want to identify desks with specific qualities (like near a window, or with a standing option) so I can book the kind of desk I like.
+	7. As a staffperson, I want to book a desk in a specific location for a specific amount of time.
+	8. As a staffperson, I want to make a change (time, duration, location?) to my reservation.
+	9. As a staffperson, I want to cancel one of my desk reservations.
+	10. As a guest, I want to find a specific person, right now, in this location.
+	11. As a guest, I want to find a specific desk, right now, in this location.
+	12. As a staffperson, I want to know when my Guest is here so that I'm prepared.

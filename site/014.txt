@@ -1,0 +1,14 @@
+014 hot seat day 4
+
+- attendance
+- Finals PSA: May 7, 7:30pm
+- Teach an Old Person
+- Niche check in.  What do you know now that you didn't know two weeks ago?
+- Reading review: Design school, Monteiro article
+- Next Reading: Paul Graham
+- Review wireframes.
+- HOT SEAT: show us what you got
+  - wireframe out guest flow
+  - wireframe out other user stories (let's recap our user story requirements)
+  - testing your workflows
+- FOR WEDNESDAY...

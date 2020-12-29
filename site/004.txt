@@ -1,0 +1,28 @@
+004 - intro to user experience
+
+- attendance
+- TEACH AN OLD PERSON
+- discuss Chimero reading:
+	- what was new?
+	- what was right?
+	- what was wrong?
+
+- new thing for HTML:
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+- Michael: tell us about Google fonts?
+
+- intro to UX lecture. (adapted from https://www.slideshare.net/cwodtke/01-introduction-to-user-experience-design)
+- more? summary of Don Norman DOET - linked in reading.
+
+- inventory project kickoff. Who has worked retail? light industrial?
+	- Q. who has worked retail? light industrial?
+
+- Project Overview
+
+- Discussion: So we might ask some questions:
+ - What are ways the inventory can get out of sync with reality? What are the ways that system fails?
+ - Who are our users/stakeholders? What do they want?
+
+
+	SKETCH OUT 5 different methods to reconcile the data. Wireframe it out. Discuss on Wednesday.

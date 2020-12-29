@@ -1,0 +1,42 @@
+404-011 hot seat kickoff
+
+- attendance
+- Stephen Cronin thing???
+- Teach an Old Person
+
+- HOT SEAT kickoff!
+- who did you choose?
+- project overview
+- user STORIES
+- style tiles
+
+You'll be designing for 3 types of users: staff and guests.
+- User Stories to define functions:
+    WHO the user is, WHAT she needs to do, and WHY she needs it.
+    As ____, I want to ______ so that _________.
+    (ref https://www.mountaingoatsoftware.com/agile/user-stories)
+    remember not user scenarios, user stories
+
+USER STORIES:
+  As a guest, I want to ___ so that ____.
+  As an employee, I want to ___ so that ____.
+
+CONCEPT sketches of pick-a-seat function
+STYLE TILE implementation
+- make a board / prototype / etc that shows:
+  - key colors
+  - pattern (if available? or feasible?)
+  - title
+  - subtitle
+  - sub-sub-subtitle
+  - paragraph
+  - small 'helper' text
+  - image
+  - image with branding on top somehow
+  - big button
+  - small button
+  - secondary button
+  - tertiary button
+  - list item
+  - form input field
+  -

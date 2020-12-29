@@ -1,0 +1,36 @@
+560 003
+X - Attendance
+X - TEACH AN OLD PERSON
+X - talk about Niche, Please
+- how does everybody feel about making something with HTML?  Not that hard, right?
+	- Zaira posted something!
+	- Joanna has a readings page!
+	- review other websites
+	- post your URL to #submit on Slack
+- Quick Demo: CSS as separate file
+
+
+
+
+FIRST DRAFT at laying out your classwork site.
+
+
+- wireframe / sketch it. I want at least 10 different layouts / proposals / sketches to show.
+We're not going to legislate how many pages each approach has, but you should play with options that have
+- everything in one big page (like a blog or tumblr),
+- or, detail pages for each text response and project, and an index / cover / TOC to show
+
+project files:
+	- project title
+	- project introduction
+	- images
+	- links
+	- etc?
+
+Work on this for X minutes, and then review. Pin up on the walls your most interesting? or sketchbook.
+- design while we work on FTP connections for people one-on-one.
+
+(people.ku.edu - apps/home/yourusername)
+
+- reading for weekend:  https://www.frankchimero.com/writing/the-webs-grain/
+- write your response, put it in html.
