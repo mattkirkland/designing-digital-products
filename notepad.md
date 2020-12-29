@@ -25,6 +25,13 @@ https://coreinteractionf19.tk/
 
 (his 50-tips are just great to throw at people) https://twitter.com/erikdkennedy/status/1328771593934290944
 
+Ugh, so good: 'Why color theory is useless' https://learnui.design/blog/color-in-ui-design-a-practical-framework.html
+
+7 rules for designing UI:
+https://learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-1.html#rule-1-light-comes-from-the-sky
+
+https://learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-2.html
+
 His UI course outline:
 
 INTRODUCTORY TOPICS
