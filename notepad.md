@@ -44,7 +44,7 @@ And look at these nice icons: https://feathericons.com
 : hand sketch
 : wireframe
 : mockup set
-: prototype 
+: prototype
 
 His UI course outline:
 
@@ -54,8 +54,8 @@ INTRODUCTORY TOPICS
 1.3Introduction to Figma
 1.4Setting Up Your Workspace for UI Design
 1.5How to Build Your Design Gut Instinct
-1.6Starting a Project: Brand & Goals
-1.73 Ways to Design Above Your Level
+1.6 Starting a Project: Brand & Goals
+1.7 3 Ways to Design Above Your Level
 1.8Finding & Using Design Inspiration
 II.FUNDAMENTALS
 2.1Analyzing Aesthetics
@@ -145,3 +145,13 @@ V.COMMUNICATING DESIGN
 ---
 
 I really should rework this so it's a replicable course that I could also run as a BNB Design internship program.
+
+## 20210109
+
+I have three weeks to get this class ready!  
+
+Starting to layout out Inventory project so it's a step-by-step version, with a 'corrected' deliverable handed out to all so they can start each step from the same place.  The only flexibility they have is choosing an existing coffee brand to work with.
+
+Maybe this should have some basic fundamentals of UI added throughout, like...
+
+- Kennedy's 'everything you know about color is wrong' article when we get to brand
