@@ -5,24 +5,24 @@
 
 /*  COLORS */
 
-.primary {background: #151515; }
+.primary {background: #f85e7a; }
 .secondary {background: #ededed;}
 .tertiary {background: #6c6c6c;}
 .quaternary {background: #ababab;}
 
-.btn-default {background: transparent; border: 1px solid #ec008c; color: #ec008c }
-.btn-default:hover {background: #ec008c; color: #fff;}
+.btn-default {background: transparent; border: 1px solid #f85e7a; color: #f85e7a }
+.btn-default:hover {background: #f85e7a; color: #fff;}
 
 .btn-primary {background: #151515; border: 1px solid  #666;}
 .btn-primary:hover {background: #333; border: 1px solid  #666;}
 
-
+.nav-link {color: #fff; opacity: 0.8;}
 
 body {
-  color: #5a5a5a;
+  color: #1c1b26;
 }
 
-a {color: #ec008c}
+a {color: #f85e7a}
 
 a:hover, a:active, a:focus {
  color: #ec008c;
@@ -44,7 +44,10 @@ h1, h2, h3, h4 {
 h3 {margin-top: 1.4em;}
 h4 {margin-top: 1.4em;}
 
-h3.brand {width: 80%; margin-left: 10%;}
+h3.brand {width: 80%; margin-left: 10%;padding: 10px;}
+
+.sidebar {background: #191528;}
+
 /* LISTS */
 
 ul {
@@ -61,7 +64,7 @@ ol li:before {
 	content: counter(counter);
 	counter-increment: counter;
   list-style-type: decimal-leading-zero;
-  color: #ec008c;
+  color: #f85e7a;
   margin-left: -1em;
   margin-right: .7rem;
   font-size: .8em;
@@ -73,13 +76,14 @@ blockquote em {font-weight: 700;}
 
 /* TABLE WEEK */
 .table .week {
-  color: #ec008c;
+  color: #f85e7a;
 }
 
-
+ .list-group-item
 
  .list-group-item.active,
  .list-group-item:hover {
-   border-left: 5px solid #ec008c;
-   color: #ec008c;
+   border-left: 5px solid #f85e7a;
+   color: #f85e7a;
+   opacity: 1.0;
  }
