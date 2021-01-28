@@ -1,6 +1,26 @@
-560 001
+560 001 -
 ATTENDANCE
 WHO'S WHO - intros. Everybody has cameras on so we can see each other?
 
 WHO'S MATT
 oh wait i have this in a presentation already - start with editing that.
+
+WHAT'S a DIGITAL PRODUCT?
+
+PRODUCT vs UX
+
+SYLLABUS
+- sketchbook
+- figma account
+- readings
+- one/week, due on Tuesday at 8am
+
+WEBSITE
+- figure it out, notion.so if nothing else
+- the point is to share your work
+- your site is how you turn in your homework
+- late is late
+
+JJG model of UX
+
+DESIGN > TEST > DESIGN > TEST > DESIGN > TEST
