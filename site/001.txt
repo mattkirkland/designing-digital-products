@@ -24,3 +24,5 @@ WEBSITE
 JJG model of UX
 
 DESIGN > TEST > DESIGN > TEST > DESIGN > TEST
+
+Low Fidelity -> High Fidelity
