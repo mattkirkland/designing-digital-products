@@ -1,32 +1,22 @@
 560 002
 - Attendance
 - TEACH AN OLD PERSON
-- review to-do list from Wednesday
+- WEBSITE check in. Build Google Doc with URLs.
+
 - discuss Reading: Wilson Miner talk.
 	- new? - agree? - disagree?
-	- reading responses due on Mondays.
-- next reading posted: frank chimero.
+	- reading responses due on Tuesdays.
 
-- Everybody get their domain & hosting?
-
-- CONCEPTUAL MODEL - presentation
-			DOMAIN NAME
-			<DNS>
-			YOUR HOST
-			<FTP>
-			YOUR COMPUTER
-
-- LETS CONNECT TO YOUR WEB HOST
-		- Grab a file from your computer - image, etc.
-		- Put it on your server
-		- See it from the web!
-
-HTML
-basics - help.html
-- head
-- body
-- block level elements h1, h2, p, p, ul, li, br, img
-- styles in head
-- links
+WEBSITE:
 - lets post some real content
 	- your writeup from the reading this week, based on the Wilson Miner talk
+	- Due on your site Tuesday at 8am
+- make a section for first project, Fearless Inventory.
+
+INVENTORY:
+- kick off, review project page
+- talk about user goals and User stories
+- make user stories together.
+
+HOMEWORK:
+- wilson minor talk, write it up on your website.
