@@ -1,6 +1,10 @@
-560 001 -
+560 2021 001 -
 ATTENDANCE
-WHO'S WHO - intros. Everybody has cameras on so we can see each other.
+WHO'S WHO - intros.
+- cameras
+- preferred name
+- field / year
+- background / other projects
 
 WHO'S MATT
 - ku, work history, etc
@@ -25,7 +29,10 @@ SOME BIG CONCEPTS:
 - DESIGN > TEST > DESIGN > TEST > DESIGN > TEST
 - Low Fidelity -> High Fidelity
 
-PRACTICAL TIPS (Come up with better name for this segment) - Systems over Instances | Stop designing for one specific use and think about a system with variations. How does that view look when there are three items? three hundred items? zero items? How can that list view be applied to all cases of listed items?
+PRACTICAL TIPS (Come up with better name for this segment) - Systems over Instances
+
+Stop designing for one specific use and think about a system with variations. How does that view look when there are three items? three hundred items? zero items? How can that list view be applied to all cases of listed items? 
+
 We'll get into layout problems for different screen sizes later but even for the simplest things, you need to think in systems.
 
 DESIGN's NOT ROCKET SCIENCE presentation.

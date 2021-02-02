@@ -8,3 +8,6 @@ Building Your Color Palette
 https://coreinteractionf19.tk/
 ### Core Interaction from Parsons
 Cybele Grandjean & Talia Cotton
+
+Color generator:
+https://huey.design
