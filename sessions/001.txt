@@ -1,4 +1,5 @@
-560 2021 001 -
+560 001 - 02022021
+
 ATTENDANCE
 WHO'S WHO - intros.
 - cameras
@@ -31,7 +32,7 @@ SOME BIG CONCEPTS:
 
 PRACTICAL TIPS (Come up with better name for this segment) - Systems over Instances
 
-Stop designing for one specific use and think about a system with variations. How does that view look when there are three items? three hundred items? zero items? How can that list view be applied to all cases of listed items? 
+Stop designing for one specific use and think about a system with variations. How does that view look when there are three items? three hundred items? zero items? How can that list view be applied to all cases of listed items?
 
 We'll get into layout problems for different screen sizes later but even for the simplest things, you need to think in systems.
 
@@ -40,3 +41,15 @@ Gestalt & UX.
 
 HOMEWORK:
 - figure out your website solution.
+- get a figma account if you don't have one?
+
+PAST WORK EXAMPLES:
+https://www.andrewcadlecreative.com
+https://anhcan.myportfolio.com/medpro-medical-app
+https://www.bhroovi.com/
+https://www.behance.net/gallery/89687057/Mobile-App-Concept
+Jaynaanne.com
+https://www.behance.net/gallery/89794475/K-12-Lesson-Planning-Tool
+https://www.behance.net/gallery/92733765/Concert-Buddy
+Goulddominique.cargo.site
+https://issuu.com/renteriahv/docs/2020_portfolio
