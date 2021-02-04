@@ -1,22 +1,22 @@
-560 002
+560 002 - 02042021
 - Attendance
 - TEACH AN OLD PERSON
 - WEBSITE check in. Build Google Doc with URLs.
 
-- discuss Reading: Wilson Miner talk.
+- assign Reading: Wilson Miner talk.
 	- new? - agree? - disagree?
 	- reading responses due on Tuesdays.
 
-WEBSITE:
-- lets post some real content
-	- your writeup from the reading this week, based on the Wilson Miner talk
-	- Due on your site Tuesday at 8am
-- make a section for first project, Fearless Inventory.
-
 INVENTORY:
 - kick off, review project page
-- talk about user goals and User stories
-- make user stories together.
+- think about a brand. Find a coffee shop.
+- talk about product goals and User stories
+	- what didn't the client tell us? speed? accuracy?  what kinds of users will use it? what's the context of use?
+- introduce user stories. 
+- make user stories together.  3 minutes to think on your own, then have everybody add them to a google doc
+
 
 HOMEWORK:
-- wilson minor talk, write it up on your website.
+- on your site:
+- - make a section for readings. Write your response to the wilson minor talk.
+- - make a separate section for the Inventory project! Post some brand assets for
