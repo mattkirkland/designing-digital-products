@@ -1,7 +1,8 @@
 560 002 - 02042021
 - Attendance
 - TEACH AN OLD PERSON
-- WEBSITE check in. Build Google Doc with URLs.
+- WEBSITE check in. Add to google doc w URLs.
+
 
 - assign Reading: Wilson Miner talk.
 	- new? - agree? - disagree?
@@ -12,7 +13,14 @@ INVENTORY:
 - think about a brand. Find a coffee shop.
 - talk about product goals and User stories
 	- what didn't the client tell us? speed? accuracy?  what kinds of users will use it? what's the context of use?
-- introduce user stories. 
+		- amberlyn: how big is the team at the warehouse
+			- two people work in a warehouse, only one
+			- are they in cases?
+			- how do you track reduction in inventory?
+			- when do you count it?
+			- what even causes you to know
+
+- introduce user stories.
 - make user stories together.  3 minutes to think on your own, then have everybody add them to a google doc
 
 
