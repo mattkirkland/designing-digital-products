@@ -6,10 +6,17 @@
  	- find an audience
 	- don't worry about what the THING is yet.
 	- a 'digital product' can be robinhood app with a whole-ass business, o it can be a toy like this one https://twitter.com/profannieoakley/status/1357768408671027202?s=20
--
+
+INVENTORY
+- show warehouse photos
 - user stories
 	- review finalized set
-- design thumbnails
+- design thumbnails.  Keep it LOOSE, us a sharpie or something and just get the general idea down.
 	- share phone template
-	- 15 min of sketches, and show what you got?
-	- show check against the set of user stories
+		- http://mattkirkland.com/designing-digital-products/phone_thumbnail_template.pdf
+		- http://mattkirkland.com/designing-digital-products/phone-scrolled-x4.pdf
+	- 15 min of sketches. Show and Tell. Talk thru a concept of how you move thru the system.
+	- Check against the set of user stories
+
+ASSIGNMENT:
+- redo your thumbnail sketches and put this in front of some people. I don't care if it's your roommate 
