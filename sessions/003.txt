@@ -2,6 +2,12 @@
  - Attendance
  - TEACH AN OLD PERSON
  - Reading Recap - Minor talk. New? Right? Wrong?
+ 	- put your names on your sites please
+	- is there such a thing as intuitive interface?
+	- robert irwin - anybody seen him?
+	- olafur eliasson
+	- I like to start with this because while I am throwing a really simple and maybe boring project at you, you can chew on this idea of impact at the same time.
+	 (nice sites: monica
  - talk about Niche, Please
  	- find an audience
 	- don't worry about what the THING is yet.
@@ -19,4 +25,4 @@ INVENTORY
 	- Check against the set of user stories
 
 ASSIGNMENT:
-- redo your thumbnail sketches and put this in front of some people. I don't care if it's your roommate 
+- redo your thumbnail sketches and put this in front of some people. I don't care if it's your roommate
