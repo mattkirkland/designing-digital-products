@@ -1,28 +1,44 @@
-560 003 - 02092021
+003 - 02092021
+
  - Attendance
+
  - TEACH AN OLD PERSON
- - Reading Recap - Minor talk. New? Right? Wrong?
+
+ - Reading Recap
+  - Minor talk. New? Right? Wrong?
  	- put your names on your sites please
 	- is there such a thing as intuitive interface?
 	- robert irwin - anybody seen him?
 	- olafur eliasson
 	- I like to start with this because while I am throwing a really simple and maybe boring project at you, you can chew on this idea of impact at the same time.
-	 (nice sites: monica
- - talk about Niche, Please
+	 (nice sites: monica!)
+
+ - talk about NICHE, Please
  	- find an audience
 	- don't worry about what the THING is yet.
 	- a 'digital product' can be robinhood app with a whole-ass business, o it can be a toy like this one https://twitter.com/profannieoakley/status/1357768408671027202?s=20
 
 INVENTORY
+- coffee brands!
+  - if you didn't do this, catch up already
 - show warehouse photos
 - user stories
 	- review finalized set
-- design thumbnails.  Keep it LOOSE, us a sharpie or something and just get the general idea down.
+- design thumbnails.  Keep it LOOSE, us a sharpie or something and just get the general idea down
 	- share phone template
 		- http://mattkirkland.com/designing-digital-products/phone_thumbnail_template.pdf
 		- http://mattkirkland.com/designing-digital-products/phone-scrolled-x4.pdf
+  - sketch out a user story. Make the task executable.
 	- 15 min of sketches. Show and Tell. Talk thru a concept of how you move thru the system.
 	- Check against the set of user stories
 
 ASSIGNMENT:
-- redo your thumbnail sketches and put this in front of some people. I don't care if it's your roommate
+- redo your thumbnail sketches and put this in front of some people. I don't care if it's your roommate or not.
+- big picture around testing. First round is:
+  - set a task
+  - design enough thumbnails to accomplish the task
+  - cut them into cards
+  - ask someone to actually do it
+  - hand them one card at a time.
+  - and take notes about what they do. does it make sense?
+  - document this and throw a process pho
