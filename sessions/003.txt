@@ -35,7 +35,7 @@ INVENTORY
 ASSIGNMENT:
 - redo your thumbnail sketches and put this in front of some people. I don't care if it's your roommate or not.
 - big picture around testing. First round is:
-  - set a task
+  - set a task (add an employee, or etc)
   - design enough thumbnails to accomplish the task
   - cut them into cards
   - ask someone to actually do it

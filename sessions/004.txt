@@ -4,8 +4,29 @@
 
 - TEACH AN OLD PERSON
 
-- Project Overview
-
 - Reminder about Niche Audience
 
--
+- Talk about experience drawing Concepts (5min each x 20 = 100min, 1.5 hrs)
+- Secret Santa
+	- share what you made,
+	- tell us about having someone use it
+	- what did you learn? What works? what doesn't?
+	- MK take screenshots as we go
+
+X - notes: do we need a split screen emp/manager?
+X - the idea of an 'instance' of running inventory. Do we need it?
+	- tim has this, just a check on anythign checked today
+	- manager has this same view but can go back/forth to other days
+
+- Samuel has good workflow on adding new people. Add name + phone #, then SMS them a link.
+- broovi has nice onboarding, but maybe it gets skipped?
+	- monica brings up nice point of we can influence those choices!
+- monica: include a photo / text about locations in the warehouse
+- amberlyn had a notifications view for MNGR
+- kaylan brings up 'units'
+- they will really need to adjust to long and short titles
+
+
+- Assignment: make a full set of concept sketches like this, so we can paper prototype this. DO NOT use your digital tools! Really do it on paper please.
+
+Based on the user feedback you got this week, make some improvements! Try to make a full set of sketches that cover the user stories we've laid out. Remember, these can still be loose - and we don't need to have every possible interaction covered. Just get enough concepts to cover the <a href="inventory_stories.html">user stories!
