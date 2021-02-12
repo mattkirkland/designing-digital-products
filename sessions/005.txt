@@ -1,4 +1,4 @@
-005 - 
+005 -
 
  - Attendance
 
@@ -9,20 +9,21 @@
 
 
  - Teach an Old Person
- - warn about sketch. who's got it? Go get it!
- - review concept sketches
-	- 5 min per person = 75 min = 1.25 hrs
- - Partner exercise!
 
- 	-	Invision account. Get it here: http://www.invisionapp.com/education-signup
-		For security reasons, you need a code. The code is: 56-73-13-19
-    If a student already has an account, just have them email me <nadav@invisionapp.com> with their expected graduation date. I will make sure they get their upgrade.
+ - warn about Figma. who's got it? Go get it!
 
-- Invision DEMO: https://goo.gl/B3nBdo
+ - reminder about Niche selection
 
-- By Wednesday 2/7:
-	- hand-draw one set of wireframes.
-	- photograph, scan, etc
+ - Talk about more concept sketches.
+  - What did you find that had to change once you started covering ALL the user stories?
+
+- Next step: wireframes! In Figma! And tappable prototypes!
+
+- By Thursday 2/18:
+	- have a Figma account.
+	- start laying out Wireframes
+  - be ready to share a tip you found with the class
+
 	- add to a tappable prototype in Invision.
 	- post a link to your prototype on your website.
 	- #submit a link to your site so we can see your Prototype
