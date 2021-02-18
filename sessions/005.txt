@@ -7,7 +7,6 @@
  	- what was right?
  	- what was wrong?
 
-
  - Teach an Old Person
 
  - warn about Figma. who's got it? Go get it!
@@ -19,11 +18,8 @@
 
 - Next step: wireframes! In Figma! And tappable prototypes!
 
-- By Thursday 2/18:
+- By Thursday 2/23:
 	- have a Figma account.
 	- start laying out Wireframes
   - be ready to share a tip you found with the class
-
-	- add to a tappable prototype in Invision.
 	- post a link to your prototype on your website.
-	- #submit a link to your site so we can see your Prototype
