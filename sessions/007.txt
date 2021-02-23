@@ -1,11 +1,12 @@
 007 fearless inventory day 4
 
-X - attendance
-X - Public Library 2/20
-X - Teach an Old Person: Ashton says: don't push mongo.
-X - discuss Erika Hall text.
-X - this week: Nicole Fenton's Words as Material.
-X - talk about testing!
+MK: breakout rooms for in-class user testing?
+
+ - attendance
+ - Teach an Old Person
+
+ - this week: Nicole Fenton's Words as Material.
+ - talk about testing!
 	X - each person show your current wireframe and tell us about testing.
 	X - secret santa advice
 X - designing in sketch. Need a demo?
