@@ -1,15 +1,24 @@
-006
+006 - 022321
+
 - Attendance
 - Teach an Old Person
   - hey Andrew: they killed a dog on wandavision last week! Like five hours after you said Marvel never kills dogs!
 - check in on niche / content area
 - reading review: Just Enough Research, Erika Hall video.
+  - see notes in sketchbook
+- introduce Kennedy Color reading
 - talk about wireframes
-  - share tips
-
-- user testing introductory lecture
-- user testing field trip.
-- assignment: write (on your site) a few things you learned from your user testing.
+  - broovi, emma, amberlyn, hadley, monica, samuel, victor
+  - share tips, how did it go?
+  - how much time?
+- user testing introductory lecture.
+- for user testing, we're going to have real people count a real thing. So get your wireframe prototype ready to handle that.  Let's say it needs to at least function
+  - fill in some real text (like, real categories, real quantities, some real products)
+  - then you're going to hand the user a baggie of some object (rubber bands, pennies, whatever) and ask them to pretend that these are the object they are counting
+  - then they need to count them and enter the count into the app.
+- we'll do this after Thursday's class. Your assignment between now and then is to correct your prototype so it can accomodate that actual use case.
+Also use this time to get used to the idea of talking to strangers!
+- the weather this weekend will be gorgeous so I promise you that somewhere you will be able to find people outside, feeling cheerful
 
 
 HI - CAN YOU DO ME A REAL QUICK FAVOR?
@@ -18,11 +27,12 @@ HI - CAN YOU DO ME A REAL QUICK FAVOR?
 - I'm going to give you a task, and we'll watch you try it out.
 - We're not testing YOU, there are no wrong answers
 - This is a Prototype
-- This isn't even my design, I'm just testing it. Don't spare my feeeeeeelings. 
+- This isn't even my design, I'm just testing it. Don't spare my feeeeeeelings.
 - I'm not going to help, I'll just watch to see what you do.
 - Please think out loud, etc.
 - ask for questions?
-
 - OK, your role: you work in a warehouse of a coffee chain.  We need to count inventory.  This is a bunch of Earl Gray Tea.
 - YOUR TASK: count these and enter the amount into the app.
+- Remember, please try to think out loud.
+(and afterwards)
 THANK YOU AND MANY BLESSINGS UPON YOU AND YOUR HOUSEHOLD
