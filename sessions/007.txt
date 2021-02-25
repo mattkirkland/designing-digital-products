@@ -5,6 +5,9 @@ MK: breakout rooms for in-class user testing?
  - attendance
  - reminder on Niche topic
  - Teach an Old Person
+
+- lessons: Spacing. Grids. Consistency. (?)
+
  - talk about testing our wireframe prototypes
 - breakout rooms to walk through this with classmates.
   - group of three

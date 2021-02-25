@@ -2,8 +2,18 @@
 
 - attendance
 - Teach an Old Person
-- discussion: Words as Material
-- next reading 99PI 
-- re: wireframe testing & marvel. How'd it go?  What problems did you discover?
-- let's see the visuals you've got so far!
-- for Wednesday: Put 'em together!
+- discussion: kennedy
+
+
+- next reading
+- re: wireframe testing  How'd it go?  What problems did you discover?
+
+- lesson: color:
+
+    COLOR - 3.1 HSB, RGBA, HEX. Screen color vs print color. Forget your pantone
+    Lighting & Shadows. Light comes from the top. shadows communicate a z-axis. bigger shadow, bigger z depth
+
+- You probably only need Gray + One Color (?)
+
+- let's throw some style shit at this.
+- you've got a skeleton, you basically know it works, let's see if we can improve it with style. Make it more clear. Make it more beautiful. Get your hierarchy in. Get your type right.

@@ -10,11 +10,14 @@ Sizing. Hierarchy. visual difference communicate other kinds of differences. | U
 - Systems over Instances | Stop designing for one specific use and think about a system with variations. How does that view look when there are three items? three hundred items? zero items? How can that list view be applied to all cases of listed items?
 
 Spacing - more white space than you think you need. spacing is a grouping tool. remember your gestalt principles.
-2.5 Lighting & Shadows. Light comes from the top. shadows communicate a z-axis. bigger shadow, bigger z depth
 2.6 Grids
 2.7 Consistency
+
+2.5 Lighting & Shadows. Light comes from the top. shadows communicate a z-axis. bigger shadow, bigger z depth
+
 III. COLOR - 3.1 HSB, RGBA, HEX. Screen color vs print color. Forget your pantone
 3.3 Gray: The Most Important Color
+
 3.4 Adjustment: The Most Important Color Skill
 3.9 Gradients
 4.2 Choosing Fonts (web, natives, availability, etc)
