@@ -3,13 +3,13 @@
 MK: breakout rooms for in-class user testing?
 
  - attendance
+ - reminder on Niche topic
  - Teach an Old Person
+ - talk about testing our wireframe prototypes
+- breakout rooms to walk through this with classmates.
+  - group of three
+  - practice a script
+  - watch somebody make mistakes with your prototypes
+  - fix the obvious problems
 
- - this week: Nicole Fenton's Words as Material.
- - talk about testing!
-	X - each person show your current wireframe and tell us about testing.
-	X - secret santa advice
-X - designing in sketch. Need a demo?
-	X - for next meeting: revised wireframes in sketch.
-	X - put 'em back into Invision.
-	X - New prototype.
+- before Tuesday: user test with five strangers. Document their responses and write up a 'lessons learned'. Post to your site.
