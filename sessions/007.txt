@@ -1,4 +1,4 @@
-007 fearless inventory day 4
+007 - 20210225
 
 MK: breakout rooms for in-class user testing?
 
@@ -6,7 +6,7 @@ MK: breakout rooms for in-class user testing?
  - reminder on Niche topic
  - Teach an Old Person
 
-- lessons: Spacing. Grids. Consistency. (?)
+
 
  - talk about testing our wireframe prototypes
 - breakout rooms to walk through this with classmates.
