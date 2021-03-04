@@ -1,9 +1,10 @@
 008 - 20210302
 
 - attendance
-- Teach an Old Person
 - discussion: kennedy
 - next reading: crash course. Another meat-and-potatoes reading.
+
+X - Teach an Old Person
 
 - re: wireframe testing  How'd it go?
   - How testing went
@@ -12,25 +13,26 @@
 
 - Mini lesson: color:
 
-    COLOR - 3.1 HSB, RGBA, HEX. Screen color vs print color. Forget your pantone. You tell computers which colors in HEX and RGBA.
+    COLOR - 3.1 HSB, RGBA, HEX. Screen color vs print color. Additive vs Subtractive. It's about light. RYB vs RGB. Forget your CMYK. Forget your Pantone. You tell computers which colors in HEX and RGBA.
     - You probably only need Gray + One Color (?)
 
-- Design System.  In a product design, we don't think of styling or interactions one screen at a time: we have to think in both larger AND smaller systems.  Larger in that we need to think through the experience of moving from screen to screen (is 'screen' even the appropriate unit?). And smaller ie, how does a primary button relate to a secondary button?
+- Design System.
 
-Some design system links:
--
--
+In a product design, we don't think of styling or interactions one screen at a time: we have to think in both larger AND smaller systems.  Larger in that we need to think through the experience of moving from screen to screen (is 'screen' even the appropriate unit?). And smaller ie, how does a primary button relate to a secondary button?
+
+Some design system links on course site.
 
 When you design a system, you're designing little atomic parts for re-use. You can't solve every design problem by looking at the kit of parts, but you can do a LOT of them. Think of these like lego molds. A lego kit consists of most of the same bricks reused from model-to-model. But sometimes they have to make a new mold for special circumstances or use a part in an unintended way.  We want to make a great, useful set of lego parts.
 
 We're going to dissect the wireframes to figure out a minimally-viable set of elements to build into a design system. Do this in a shared Google Doc.
-  - Matt remember to
+  - Matt remember to include
   - top nav items
   - h1, h2, h3
   - p / default body copy
   - inputs
   - buttons (primary, secondary) - include inactive, active, hover, disabled
-
+  - drawer: xpand collapse
+  
 Make a new figma file and build out two visually-distinct first-passes at a design systems.  There's more than one way to interpret a brand!  Here's a shortcut: one of them can be gray + one color. The other one can be more maximal or interesting.  You don't have to use these approaches but they're a fallback approach.
 
 Remember your basic gestalt principles here: we're going to use size contrast, alignment, etc here

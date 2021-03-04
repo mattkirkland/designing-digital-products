@@ -1,10 +1,8 @@
-009 fearless inventory day 6
+009 - 20210304
 
 - attendance
-- Cayce Zavaglia - so uncool w/o being aggressive, so craftsman like, workman. idgaf about her success bc the work is GOOD
+- reading reminder
 - Teach an Old Person
 - Niche checkin. Where are we? What's your favorite thing?
-- Now, for Inventory! Let's see 'em. Style it; apply your brand consistently and put together into a new, second prototype in Marvel
-- remember reading: 99pi episode
-- remember no class next Week
-- remember to finish up your prototype
+- Now, for Inventory! Let's see those attempts at design systems.
+- for the weekend: adjust your design system based on feedback / crit today, and finish out your prototype with those styles.  if you use the components and style options in Figma then this can rough in pretty quickly, and then you can adjust and fine-tune.
