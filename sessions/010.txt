@@ -1,10 +1,19 @@
-404-010 fearless inventory day 7
+010 - 20200309
 
 - attendance
+- reading recap: Crash Course
+- next reading: Words as Material
 - Teach an Old Person
-- reading recap: Ten Thousand Years
-- next reading: Crash Course
-- design implementation - present and critique!
+
+- design implementation - let's see what's up.
+	- random selection of student
+	- random selection of tester.
+	- random # that matches to a user story
+	Tester then tries to complete the user story in Student's prototype while screen sharing. DON'T let student give intro before test.
+	We dissect what we saw. How did it work?
+
+- for Thursday. Get further. Complete by Tuesday. Embed the prototype on your site. 8am.
+
 - if time: desk project!
 	- user stories?
 	- by Wednesday: select your corp

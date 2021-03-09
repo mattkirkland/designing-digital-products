@@ -161,3 +161,16 @@ Maybe this should have some basic fundamentals of UI added throughout, like...
 Arranged a bunch of stuff for the syllabus.  Looking thru kennedy's stuff, maybe each class period could have a lesson component.  I'm going to try it in lessons.md.
 
 I think this is workable. Each class do a practical lesson that I can basically turn into a short blog post and then link for them.
+
+## 20210308
+
+:points up: what? I thought about writing two blog posts a week?  Uh, seems unlikely.
+
+Thinking about evaluating the prototypes, some ideas:
+- random selection of student
+- random selection of tester.
+- random # that matches to a user story
+Tester then tries to complete the user story while screen sharing
+We dissect what we saw.
+
+responsive studies: look at an example website and break down how it adjusts for mobile sizes. screenshots. Diagram it out. What changes? What appears or disappears? Where does the stuff go?  Do any controls change?  AN exercise in paying attention. Do it again.

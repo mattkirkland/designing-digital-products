@@ -6,3 +6,4 @@
 - Niche checkin. Where are we? What's your favorite thing?
 - Now, for Inventory! Let's see those attempts at design systems.
 - for the weekend: adjust your design system based on feedback / crit today, and finish out your prototype with those styles.  if you use the components and style options in Figma then this can rough in pretty quickly, and then you can adjust and fine-tune.
+- post it to your site!
