@@ -6,6 +6,39 @@
 - next reading: 10 Things etc.
 - spring break!
 - niche check-in
+You'll be designing for 2 types of users: staff and guests.
+- User Stories to define functions:
+    WHO the user is, WHAT she needs to do, and WHY she needs it.
+    As ____, I want to ______ so that _________.
+    (ref https://www.mountaingoatsoftware.com/agile/user-stories)
+    remember not user scenarios, user stories
+
+USER STORIES:
+  As a guest, I want to ___ so that ____.
+  As an employee, I want to ___ so that ____.
+
+CONCEPT sketches of pick-a-seat function
+
+STYLE TILE implementation
+- make a board / prototype / etc that shows:
+  - key colors
+  - pattern (if available? or feasible?)
+  - title
+  - subtitle
+  - sub-sub-subtitle
+  - paragraph
+  - small 'helper' text
+  - image
+  - image with branding on top somehow
+  - big button
+  - small button
+  - secondary button
+  - tertiary button
+  - list item
+  - form input field
+  -
+
+
 
 - Hot Seat!
 	- review brand boards
