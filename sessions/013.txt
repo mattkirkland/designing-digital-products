@@ -19,6 +19,47 @@
 - Grades? Grades. Grade speech.
 
 
+STYLE TILE implementation
+- make a board / prototype / etc that shows:
+  - key colors
+  - pattern (if available? or feasible?)
+  - title
+  - subtitle
+  - sub-sub-subtitle
+  - paragraph
+  - small 'helper' text
+  - image
+  - image with branding on top somehow
+  - big button
+  - small button
+  - secondary button
+  - tertiary button
+  - list item
+  - form input field
+  -
+
+
+
+- Hot Seat!
+	- review brand boards
+			- key colors
+			- pattern (if available? or feasible?)
+			- title
+			- subtitle
+			- sub-sub-subtitle
+			- paragraph
+			- small 'helper' text
+			- image
+			- image with branding on top somehow
+			- big button
+			- small button
+			- secondary button
+			- tertiary button
+			- list item
+			- form input field
+
+	- did yours include these things? WHY NOT?
+		- media kits
 
 
 - niche assignment over the weekend: find a way to immerse yourself in this world more - come back smarter about your niche than you are today
