@@ -1,16 +1,25 @@
 012 - 20210316
 
-> Find Intro to responsive for Reading.
 
 Desk Day 1
 
 - attendance - 5min
-- Teach an Old Person - 5min
+
 - discuss reading: Words as Material - 10min
+  - andrew: letters to person (aka rubber ducking)
+
 - next reading: intro to responsive design. - 3min
+
+- Teach an Old Person - 5min
+  - unrelated? David Umemoto sculpture (victor project)
+
 - Any epiphanies or takeaways to share from wrapping up your inventory prototype? - 10min
+  -> Tim: back button
+  -> Andrew: embed the code in your site
+
 - spring break! (not yours, mine) (matt out Mar 30 / Apr 1) - 2min
 - niche check-in reminder
+
 - let's talk about responsiveness! I don't need you to know how to build a site responsively, but you need to THINK responsively.
   - show breakpoints and how to see in browser with web inspector
   - npr example? in Miro https://miro.com/app/board/o9J_lPRMPos=/
@@ -23,13 +32,13 @@ Desk Day 1
 
 - kick off Desk Reservations!
   - walk thru brief.
-  - user story brainstorm.
 
 FOR THURSDAY:
 - pick your fortune 500 company. put it on your site with some brand examples.
 - responsive breakdown of a site. (?)
-Then for TUES: sketches
+Then for TUES: concept sketches & paper prototype
 
+On thursday we'll do user stories and concept sketches.
 
 You'll be designing for 2 types of users: staff and guests.
 - User Stories to define functions:
