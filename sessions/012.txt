@@ -11,12 +11,13 @@ Desk Day 1
 - Any epiphanies or takeaways to share from wrapping up your inventory prototype? - 10min
 - spring break! (not yours, mine) (matt out Mar 30 / Apr 1) - 2min
 - niche check-in reminder
-- let's talk about responsiveness!
+- let's talk about responsiveness! I don't need you to know how to build a site responsively, but you need to THINK responsively.
   - show breakpoints and how to see in browser with web inspector
-  - npr example? in Miro or Whimsical or something maybe?
+  - npr example? in Miro https://miro.com/app/board/o9J_lPRMPos=/
     - content changes (something appears / disappears)
-    - size change (something appears / disappears)
-    -
+    - size change (something gets bigger or smaller)
+    - rearrangement (something moves!)
+
   - maybe have people break out and work together for 15min, then share/present?
 
 
@@ -27,7 +28,7 @@ Desk Day 1
 FOR THURSDAY:
 - pick your fortune 500 company. put it on your site with some brand examples.
 - responsive breakdown of a site. (?)
-Then for TUES: sketches 
+Then for TUES: sketches
 
 
 You'll be designing for 2 types of users: staff and guests.
