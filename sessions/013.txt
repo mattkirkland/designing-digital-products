@@ -1,65 +1,34 @@
 404-013 hot seat day 3
 
 - attendance
+- Grades? Grades. Grade speech.
+- niche assignment over the weekend: find a way to immerse yourself in this world more - come back smarter about your niche than you are today
 - Teach an Old Person
-- Hot Seat!
+- Desk Reservations.
+- picking out brand assets. Round up, who did you pick? How did it go?  I'll bet you all five bucks that your company has a brand guide somewhere that you can reference.
+- User Stories. Workshop together.
+Assignment:
+- Make a loose concept paper prototype on booking a desk. Test it with five people. See if they can book a desk! Post your process and findings on your site.</li>
+- Reading Assignment. Write your response to the Responsive posts.</li>
+- Have you selected your niche audience? Great. Now find a way to immerse yourself in the world of your niche audience. Come back smarter about this group of people than you are today.
+
+------------------------------
+USER STORIES from LAST TIME.
+
+	OUR APPROVED USER STORIES ARE
+	1. As a staffperson, I want to log into the system so that I can do anything
+	2. As a staffperson, I want to log OUT of the system so that my user access is protected
+	3. As a staffperson, I want to see info (like name, title, etc) about my colleagues to I can decide where to sit
+	4. As a staffperson, I want to be able to find out where a specific person is booked right now and in the future (for anywhere in the entire company)
+	5. As a staffperson, I want to see which desks are available for reservation right now and in the future, for all locations in the company
+	6. As a staffperson, I want to identify desks with specific qualities (like near a window, or with a standing option) so I can book the kind of desk I like.
+	7. As a staffperson, I want to book a desk in a specific location for a specific amount of time.
+	8. As a staffperson, I want to make a change (time, duration, location?) to my reservation.
+	9. As a staffperson, I want to cancel one of my desk reservations.
+	10. As a guest, I want to find a specific person, right now, in this location.
+	11. As a guest, I want to find a specific desk, right now, in this location.
+	12. As a staffperson, I want to know when my Guest is here so that I'm prepared.
 
   - review sketches.  show us your best and dumbest concepts, just those two.
-
-
-
-
-
-
-
-
-
-
-
-- Grades? Grades. Grade speech.
-
-
-STYLE TILE implementation
-- make a board / prototype / etc that shows:
-  - key colors
-  - pattern (if available? or feasible?)
-  - title
-  - subtitle
-  - sub-sub-subtitle
-  - paragraph
-  - small 'helper' text
-  - image
-  - image with branding on top somehow
-  - big button
-  - small button
-  - secondary button
-  - tertiary button
-  - list item
-  - form input field
-  -
-
-
-
-- Hot Seat!
-	- review brand boards
-			- key colors
-			- pattern (if available? or feasible?)
-			- title
-			- subtitle
-			- sub-sub-subtitle
-			- paragraph
-			- small 'helper' text
-			- image
-			- image with branding on top somehow
-			- big button
-			- small button
-			- secondary button
-			- tertiary button
-			- list item
-			- form input field
-
-	- did yours include these things? WHY NOT?
-		- media kits
-
 
 - niche assignment over the weekend: find a way to immerse yourself in this world more - come back smarter about your niche than you are today
