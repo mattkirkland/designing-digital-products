@@ -2,9 +2,12 @@
 
 - attendance
 - Reading review: Responsive notes
+  - kaylan's notes on 'content over design' interesting
+
+- Niche check in.  What do you know now that you didn't know two weeks ago?
 
 - Teach an Old Person
-- Niche check in.  What do you know now that you didn't know two weeks ago?
+
 - Next Reading: Paul Graham, Startup Ideas
   - why? this isn't about a new company but the thrust of this essay is about paying attention to users and their needs. Your niche audience is your user focus.
   - you don't need to actually pick something that has a business model, but it's an interesting approach to find the problem you want to design for, rather than just imagining a made-up problem
