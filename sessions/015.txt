@@ -11,4 +11,5 @@
     - start laying in brand styles when you're ready
 
 - Teach an Old Person
+- https://www.youtube.com/watch?v=Do6HJBj984I overview on figma frames
 - let's look at your work; next up is testing and refinement!
