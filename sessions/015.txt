@@ -1,5 +1,14 @@
-015 hot seat day 5
+015 - 032521
 
 - attendance
+- schedule reminder:
+  - no class next week.
+  - reading is still due!
+  - next two weeks is going to be just progressing your design. So you'll need to:
+    - make a wireframe prototype
+    - test it out
+    - fix it
+    - start laying in brand styles when you're ready
+
 - Teach an Old Person
 - let's look at your work; next up is testing and refinement!
