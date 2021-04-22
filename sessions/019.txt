@@ -1,7 +1,6 @@
-019 NICHE day 3
+019 NICHE day 2
 
 - attendance
 - Teach an Old Person
-- Reading: REVIEW
-- Reading: PREVIEW
-- Niche: show your work!  User stories, schedule, and deliverables for today.
+- Niche: Pitch! Tell us what you want to make.
+- group feedback on each. Remember the goal: we don't know what the niche audience wants but we can think about scope.
