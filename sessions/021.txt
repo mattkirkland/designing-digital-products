@@ -1,8 +1,9 @@
-021 niche day 5
+021 - 042921
 
-NICHE DELIVERABLES
 
 - attendance
-- Reading (next week: last one!)
 - Teach an Old Person
-- Niche Deliverables. Whatcha got?
+- Niche Deliverables. Low-fi prototypes.
+  - show us what you've got, show us what questions you have.
+
+NEXT STEP: Do user tests with your prototype! Get REAL people from your niche audience to test some user stories and see how it works!  Document this and their feedback, post the prototype and documentation about your user tests on your site.
